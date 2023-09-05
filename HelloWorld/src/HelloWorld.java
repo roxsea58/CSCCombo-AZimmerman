@@ -39,6 +39,16 @@ public class HelloWorld {
 		System.out.println("The sum of the two numbers is " + total + "." + " This is calculated by adding " + num1 +" and " + num2 +".");
 		
 		System.out.println("Divided, the numbers equal " + feet + " feet and " + inches + " inches.");
+		
+		//September 5th, calendar exercise
+		//print a date (ex: Tuesday September, 5th
+		
+		int date;
+		
+		int year;
+		
+		
+		
 	}
 
 }
