@@ -15,55 +15,56 @@ public class InputCheckSheet {
 		
 		//-----------------------------------------------------------------
 		
-		//System.out.print("the words go here");
+		System.out.print("the words go here");
 		
-		//word = input.nextLine();
+		word = input.nextLine();
 		
-		//System.out.println("The words in all caps are: " + word.toUpperCase());
+		System.out.println("The words in all caps are: " + word.toUpperCase());
 		
 		//-----------------------------------------------------------------
-//		
-//		realNum = 987654321.987654321f;
-//		
-//		realNum = realNum + realNum;
-//		
-//		System.out.printf("%.9f", realNum);
+
+		realNum = 987654321.987654321f;
+		
+		realNum = realNum + realNum;
+		
+		System.out.printf("%.9f", realNum);
+		
 		//result is 1975308672.000000000
 		
 		//-----------------------------------------------------------------
-//		
-//		biggerRealNum = 987654321.987654321;
-//		
-//		biggerRealNum = biggerRealNum + biggerRealNum;
-//		
-//		System.out.printf("\n%.9f", biggerRealNum);
+
+		biggerRealNum = 987654321.987654321;
+
+		biggerRealNum = biggerRealNum + biggerRealNum;
+
+		System.out.printf("\n%.9f", biggerRealNum);
 		// result is 1975308643.975308700
 		
 		//-----------------------------------------------------------------
 		
-		//System.out.print("the words go here");
+		System.out.print("the words go here");
 		
-		//word = input.nextLine();
+		word = input.nextLine();
 		
-		//System.out.println("The word goes here " + word);
+		System.out.println("The word goes here " + word);
+			
+		System.out.print("the int numbers go here");
 		
-		//System.out.print("the int numbers go here");
+		intNum = input.nextInt();
 		
-		//intNum = input.nextInt();
+		System.out.println("The int number goes here " + intNum);
 		
-		//System.out.println("The int number goes here " + intNum);
+		System.out.print("the real numbers go here");
 		
-		//System.out.print("the real numbers go here");
+		realNum = input.nextFloat();
 		
-		//realNum = input.nextFloat();
+		System.out.println("The real number goes here " + realNum);
 		
-		//System.out.println("The real number goes here " + realNum);
+		System.out.print("the bigger real numbers go here");
 		
-//		System.out.print("the bigger real numbers go here");
-//		
-//		biggerRealNum = input.nextFloat();
-//		
-//		System.out.printf("$%.2f", biggerRealNum);
+		biggerRealNum = input.nextFloat();
+		
+		System.out.printf("$%.2f", biggerRealNum);
 		
 		//-----------------------------------------------------------------
 		
